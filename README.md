@@ -31,8 +31,8 @@ Unity packages and AR Foundation via Unity Package Manager<br/>
 
 
 ## Related Products
-* [Create Augmented Reality Apps using Vuforia 7 in Unity [Video]](https://www.packtpub.com/in/application-development/create-augmented-reality-apps-using-vuforia-7-unity-video)
+ [Create Augmented Reality Apps using Vuforia 7 in Unity [Video]](https://www.packtpub.com/in/application-development/create-augmented-reality-apps-using-vuforia-7-unity-video)
 
-* [The Complete ARKit Course - Build 11 Augmented Reality Apps [Video]](https://www.packtpub.com/in/application-development/complete-arkit-course-build-11-augmented-reality-apps-video)
+ [The Complete ARKit Course - Build 11 Augmented Reality Apps [Video]](https://www.packtpub.com/in/application-development/complete-arkit-course-build-11-augmented-reality-apps-video)
 
-* [iOS Augmented Reality with ARKit [Video]](https://www.packtpub.com/in/web-development/ios-augmented-reality-arkit-video)
+ [iOS Augmented Reality with ARKit [Video]](https://www.packtpub.com/in/web-development/ios-augmented-reality-arkit-video)
